@@ -1,0 +1,24 @@
+
+#java class files
+*.class
+
+# generated files
+/bin
+/gen
+/assets
+
+#local configuration file
+local.properties
+
+#explicit git ignore
+/repos-ignore
+
+# eclipse settings
+.classpath
+.project
+.project.properties
+.metadata
+.settings
+.DS_Store
+.gradle
+/settings
